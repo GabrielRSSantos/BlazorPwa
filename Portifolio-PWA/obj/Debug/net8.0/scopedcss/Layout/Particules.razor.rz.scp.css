@@ -138,3 +138,7 @@
         transform: translateY(-2000px);
     }
 }
+
+@media (min-width: 641px) {
+
+}

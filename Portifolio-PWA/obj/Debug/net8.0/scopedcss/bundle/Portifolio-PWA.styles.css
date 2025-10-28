@@ -2,15 +2,14 @@
 .page[b-rr2ju93gvd] {
     display: flex;
     flex-direction: column;
-    height:10px;
+    height:95vh;
 }
 
 main[b-rr2ju93gvd] {
-    flex: 1;
+    height:100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom:3.5rem;
 }
 
 .sidebar[b-rr2ju93gvd] {
@@ -312,4 +311,8 @@ nav[b-ejiwsu219b]{
     to {
         transform: translateY(-2000px);
     }
+}
+
+@media (min-width: 641px) {
+
 }

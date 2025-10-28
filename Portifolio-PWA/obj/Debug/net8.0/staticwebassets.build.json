@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f5tNs5iISTfi0YZYdRNmwjEjBG8ZeA6BNqiIqDQfio8=",
+  "Hash": "Sc1/D4Tp6N5tP/Xc47nJ6fOBgvXV3oqqMJoMzZfmmxs=",
   "Source": "Portifolio-PWA",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "5hncrbm3ek",
-      "Integrity": "J9c5pVMu6lXIcQWqEBRFa7UM0+yGs0hH4IQQPPtZSu4=",
+      "Fingerprint": "2g21f0bgby",
+      "Integrity": "ouFN6vtQ4MdZZTavw8Jp4ehedtdfz79UnNd47oOTORo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "wmj56o6u81",
-      "Integrity": "WAexBRMiqTqH0NLk+pHbBfgytVdQN9e6YNozw6QrToc=",
+      "Fingerprint": "ardf51vwtc",
+      "Integrity": "mlMSyEJuUmy13C5RnlVlW5SVePym1xMs3/xTNj2s6+o=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\Portifolio-PWA.pdb"
@@ -913,8 +913,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "ofp9vogzwo",
-      "Integrity": "/Hd7vdYwosqW+L/4ewD9Se3dBwkEimv7dV0DHt7d9IE=",
+      "Fingerprint": "xtgq50uya3",
+      "Integrity": "tVwRR67JUMZjwYRLw3pTJFTjBZwvlZSsfMTpefhOrnI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\webcil\\Portifolio-PWA.wasm"
@@ -4448,7 +4448,7 @@
       "OriginalItemSpec": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.wasm"
     },
     {
-      "Identity": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\0zqjp9n3ob-5hncrbm3ek.gz",
+      "Identity": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\0zqjp9n3ob-2g21f0bgby.gz",
       "SourceId": "Portifolio-PWA",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\",
@@ -4462,8 +4462,8 @@
       "RelatedAsset": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8hhihzj749",
-      "Integrity": "BMogMkawiBy0eMmYWv1Soo/z+hFQNllJXVA6rKKevJk=",
+      "Fingerprint": "wibdu945az",
+      "Integrity": "mJ3j4777IAMvfGjk7db9ObCmDodky5t9QIlcyg9rLRQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5855,7 +5855,7 @@
       "OriginalItemSpec": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\c04wpue2vu-wmj56o6u81.gz",
+      "Identity": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\c04wpue2vu-ardf51vwtc.gz",
       "SourceId": "Portifolio-PWA",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\",
@@ -5869,8 +5869,8 @@
       "RelatedAsset": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Portifolio-PWA.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tde1d2v12l",
-      "Integrity": "71tFgxSrvtmhshtZETgJ+01zyRTqGwLAEOe+rfPpd0Q=",
+      "Fingerprint": "6tkxosfepv",
+      "Integrity": "ml+XfvIvcihm4L0mRVmc4pgR1Q+ASTo22oQ10HHxNZ4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Portifolio-PWA.pdb"
@@ -6947,7 +6947,7 @@
       "OriginalItemSpec": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.Lightweight.wasm"
     },
     {
-      "Identity": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\l9tkzgb7ri-ofp9vogzwo.gz",
+      "Identity": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\l9tkzgb7ri-xtgq50uya3.gz",
       "SourceId": "Portifolio-PWA",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\",
@@ -6961,8 +6961,8 @@
       "RelatedAsset": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Portifolio-PWA.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ir0uosdh3j",
-      "Integrity": "oohUIE/FUEXdQgHDLoxTVGUjvNewx1zV3ckYl9+R2vg=",
+      "Fingerprint": "ahg46ltqgf",
+      "Integrity": "kklg3JqI93iqHhO2GyXw3erkGMoX2Lurpv82HfGShv0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Portifolio-PWA.wasm"
@@ -8641,8 +8641,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "s5r5fa6630",
-      "Integrity": "wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk=",
+      "Fingerprint": "ts8tg0yvd9",
+      "Integrity": "Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Portifolio-PWA.styles.css"
@@ -8662,8 +8662,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "s5r5fa6630",
-      "Integrity": "wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk=",
+      "Fingerprint": "ts8tg0yvd9",
+      "Integrity": "Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Portifolio-PWA.bundle.scp.css"
@@ -8683,8 +8683,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "vrmbjvr51k",
-      "Integrity": "9fhHCDvHCqnm1SqBnOfBeHvXo542eiPkU8HDOfwt0jY=",
+      "Fingerprint": "f699vjalsm",
+      "Integrity": "tyGB6s1dSWxbIhOzEY2iVpngdDVeQN+qpzSAfp0sUKY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "wwwroot\\service-worker.js"
@@ -8704,8 +8704,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "6d6rlhidm5",
-      "Integrity": "+tGk2xeS5nJeLwIUq6l3R3fMEuz4nXIdMSd374gOxpM=",
+      "Fingerprint": "72bdaehauf",
+      "Integrity": "wbRYC5XhHy3+MwWjzDnLbXBubYhRDztrlUy2wvvtcvo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\service-worker\\service-worker-assets.js.build"
@@ -8920,11 +8920,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J9c5pVMu6lXIcQWqEBRFa7UM0+yGs0hH4IQQPPtZSu4=\""
+          "Value": "\"ouFN6vtQ4MdZZTavw8Jp4ehedtdfz79UnNd47oOTORo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 11:08:02 GMT"
+          "Value": "Tue, 28 Oct 2025 00:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8934,18 +8934,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J9c5pVMu6lXIcQWqEBRFa7UM0+yGs0hH4IQQPPtZSu4="
+          "Value": "sha256-ouFN6vtQ4MdZZTavw8Jp4ehedtdfz79UnNd47oOTORo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\0zqjp9n3ob-5hncrbm3ek.gz",
+      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\0zqjp9n3ob-2g21f0bgby.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000112968821"
+          "Quality": "0.000112930548"
         }
       ],
       "ResponseHeaders": [
@@ -8955,15 +8955,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8851"
+          "Value": "8854"
         },
         {
           "Name": "ETag",
-          "Value": "\"BMogMkawiBy0eMmYWv1Soo/z+hFQNllJXVA6rKKevJk=\""
+          "Value": "\"mJ3j4777IAMvfGjk7db9ObCmDodky5t9QIlcyg9rLRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 10:42:12 GMT"
+          "Value": "Mon, 27 Oct 2025 23:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8983,19 +8983,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"J9c5pVMu6lXIcQWqEBRFa7UM0+yGs0hH4IQQPPtZSu4=\""
+          "Value": "W/\"ouFN6vtQ4MdZZTavw8Jp4ehedtdfz79UnNd47oOTORo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J9c5pVMu6lXIcQWqEBRFa7UM0+yGs0hH4IQQPPtZSu4="
+          "Value": "sha256-ouFN6vtQ4MdZZTavw8Jp4ehedtdfz79UnNd47oOTORo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\0zqjp9n3ob-5hncrbm3ek.gz",
+      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\0zqjp9n3ob-2g21f0bgby.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9004,7 +9004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8851"
+          "Value": "8854"
         },
         {
           "Name": "Content-Type",
@@ -9012,11 +9012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BMogMkawiBy0eMmYWv1Soo/z+hFQNllJXVA6rKKevJk=\""
+          "Value": "\"mJ3j4777IAMvfGjk7db9ObCmDodky5t9QIlcyg9rLRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 10:42:12 GMT"
+          "Value": "Mon, 27 Oct 2025 23:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9034,7 +9034,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BMogMkawiBy0eMmYWv1Soo/z+hFQNllJXVA6rKKevJk="
+          "Value": "sha256-mJ3j4777IAMvfGjk7db9ObCmDodky5t9QIlcyg9rLRQ="
         }
       ]
     },
@@ -14529,7 +14529,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24440"
+          "Value": "24616"
         },
         {
           "Name": "Content-Type",
@@ -14537,11 +14537,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WAexBRMiqTqH0NLk+pHbBfgytVdQN9e6YNozw6QrToc=\""
+          "Value": "\"mlMSyEJuUmy13C5RnlVlW5SVePym1xMs3/xTNj2s6+o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 11:08:02 GMT"
+          "Value": "Tue, 28 Oct 2025 00:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14551,18 +14551,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WAexBRMiqTqH0NLk+pHbBfgytVdQN9e6YNozw6QrToc="
+          "Value": "sha256-mlMSyEJuUmy13C5RnlVlW5SVePym1xMs3/xTNj2s6+o="
         }
       ]
     },
     {
       "Route": "_framework/Portifolio-PWA.pdb",
-      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\c04wpue2vu-wmj56o6u81.gz",
+      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\c04wpue2vu-ardf51vwtc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000055872164"
+          "Quality": "0.000054656756"
         }
       ],
       "ResponseHeaders": [
@@ -14572,15 +14572,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17897"
+          "Value": "18295"
         },
         {
           "Name": "ETag",
-          "Value": "\"71tFgxSrvtmhshtZETgJ+01zyRTqGwLAEOe+rfPpd0Q=\""
+          "Value": "\"ml+XfvIvcihm4L0mRVmc4pgR1Q+ASTo22oQ10HHxNZ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 10:42:11 GMT"
+          "Value": "Mon, 27 Oct 2025 23:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14600,19 +14600,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"WAexBRMiqTqH0NLk+pHbBfgytVdQN9e6YNozw6QrToc=\""
+          "Value": "W/\"mlMSyEJuUmy13C5RnlVlW5SVePym1xMs3/xTNj2s6+o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WAexBRMiqTqH0NLk+pHbBfgytVdQN9e6YNozw6QrToc="
+          "Value": "sha256-mlMSyEJuUmy13C5RnlVlW5SVePym1xMs3/xTNj2s6+o="
         }
       ]
     },
     {
       "Route": "_framework/Portifolio-PWA.pdb.gz",
-      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\c04wpue2vu-wmj56o6u81.gz",
+      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\c04wpue2vu-ardf51vwtc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14621,7 +14621,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17897"
+          "Value": "18295"
         },
         {
           "Name": "Content-Type",
@@ -14629,11 +14629,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"71tFgxSrvtmhshtZETgJ+01zyRTqGwLAEOe+rfPpd0Q=\""
+          "Value": "\"ml+XfvIvcihm4L0mRVmc4pgR1Q+ASTo22oQ10HHxNZ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 10:42:11 GMT"
+          "Value": "Mon, 27 Oct 2025 23:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14651,7 +14651,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-71tFgxSrvtmhshtZETgJ+01zyRTqGwLAEOe+rfPpd0Q="
+          "Value": "sha256-ml+XfvIvcihm4L0mRVmc4pgR1Q+ASTo22oQ10HHxNZ4="
         }
       ]
     },
@@ -14674,11 +14674,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/Hd7vdYwosqW+L/4ewD9Se3dBwkEimv7dV0DHt7d9IE=\""
+          "Value": "\"tVwRR67JUMZjwYRLw3pTJFTjBZwvlZSsfMTpefhOrnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 11:08:02 GMT"
+          "Value": "Tue, 28 Oct 2025 00:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14688,18 +14688,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/Hd7vdYwosqW+L/4ewD9Se3dBwkEimv7dV0DHt7d9IE="
+          "Value": "sha256-tVwRR67JUMZjwYRLw3pTJFTjBZwvlZSsfMTpefhOrnI="
         }
       ]
     },
     {
       "Route": "_framework/Portifolio-PWA.wasm",
-      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\l9tkzgb7ri-ofp9vogzwo.gz",
+      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\l9tkzgb7ri-xtgq50uya3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000128155837"
+          "Quality": "0.000125281884"
         }
       ],
       "ResponseHeaders": [
@@ -14709,15 +14709,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7802"
+          "Value": "7981"
         },
         {
           "Name": "ETag",
-          "Value": "\"oohUIE/FUEXdQgHDLoxTVGUjvNewx1zV3ckYl9+R2vg=\""
+          "Value": "\"kklg3JqI93iqHhO2GyXw3erkGMoX2Lurpv82HfGShv0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 10:42:12 GMT"
+          "Value": "Mon, 27 Oct 2025 23:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14737,19 +14737,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/Hd7vdYwosqW+L/4ewD9Se3dBwkEimv7dV0DHt7d9IE=\""
+          "Value": "W/\"tVwRR67JUMZjwYRLw3pTJFTjBZwvlZSsfMTpefhOrnI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/Hd7vdYwosqW+L/4ewD9Se3dBwkEimv7dV0DHt7d9IE="
+          "Value": "sha256-tVwRR67JUMZjwYRLw3pTJFTjBZwvlZSsfMTpefhOrnI="
         }
       ]
     },
     {
       "Route": "_framework/Portifolio-PWA.wasm.gz",
-      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\l9tkzgb7ri-ofp9vogzwo.gz",
+      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\compressed\\l9tkzgb7ri-xtgq50uya3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14758,7 +14758,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7802"
+          "Value": "7981"
         },
         {
           "Name": "Content-Type",
@@ -14766,11 +14766,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oohUIE/FUEXdQgHDLoxTVGUjvNewx1zV3ckYl9+R2vg=\""
+          "Value": "\"kklg3JqI93iqHhO2GyXw3erkGMoX2Lurpv82HfGShv0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 10:42:12 GMT"
+          "Value": "Mon, 27 Oct 2025 23:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14788,7 +14788,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oohUIE/FUEXdQgHDLoxTVGUjvNewx1zV3ckYl9+R2vg="
+          "Value": "sha256-kklg3JqI93iqHhO2GyXw3erkGMoX2Lurpv82HfGShv0="
         }
       ]
     },
@@ -37653,7 +37653,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "68281"
+          "Value": "68294"
         },
         {
           "Name": "Content-Type",
@@ -37661,11 +37661,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk=\""
+          "Value": "\"Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 11:07:10 GMT"
+          "Value": "Mon, 27 Oct 2025 23:44:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37675,97 +37675,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk="
-        }
-      ]
-    },
-    {
-      "Route": "Portifolio-PWA.s5r5fa6630.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Portifolio-PWA.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68281"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 11:07:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s5r5fa6630"
-        },
-        {
-          "Name": "label",
-          "Value": "Portifolio-PWA.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk="
-        }
-      ]
-    },
-    {
-      "Route": "Portifolio-PWA.s5r5fa6630.styles.css",
-      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Portifolio-PWA.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68281"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 11:07:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s5r5fa6630"
-        },
-        {
-          "Name": "label",
-          "Value": "Portifolio-PWA.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk="
+          "Value": "sha256-Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM="
         }
       ]
     },
@@ -37780,7 +37690,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "68281"
+          "Value": "68294"
         },
         {
           "Name": "Content-Type",
@@ -37788,11 +37698,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk=\""
+          "Value": "\"Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 11:07:10 GMT"
+          "Value": "Mon, 27 Oct 2025 23:44:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37802,7 +37712,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk="
+          "Value": "sha256-Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM="
+        }
+      ]
+    },
+    {
+      "Route": "Portifolio-PWA.ts8tg0yvd9.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Portifolio-PWA.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:44:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ts8tg0yvd9"
+        },
+        {
+          "Name": "label",
+          "Value": "Portifolio-PWA.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM="
+        }
+      ]
+    },
+    {
+      "Route": "Portifolio-PWA.ts8tg0yvd9.styles.css",
+      "AssetFile": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Portifolio-PWA.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:44:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ts8tg0yvd9"
+        },
+        {
+          "Name": "label",
+          "Value": "Portifolio-PWA.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM="
         }
       ]
     },
@@ -37907,7 +37907,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9fhHCDvHCqnm1SqBnOfBeHvXo542eiPkU8HDOfwt0jY=\""
+          "Value": "\"tyGB6s1dSWxbIhOzEY2iVpngdDVeQN+qpzSAfp0sUKY=\""
         },
         {
           "Name": "Last-Modified",
@@ -37921,7 +37921,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9fhHCDvHCqnm1SqBnOfBeHvXo542eiPkU8HDOfwt0jY="
+          "Value": "sha256-tyGB6s1dSWxbIhOzEY2iVpngdDVeQN+qpzSAfp0sUKY="
         }
       ]
     },
@@ -37944,11 +37944,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+tGk2xeS5nJeLwIUq6l3R3fMEuz4nXIdMSd374gOxpM=\""
+          "Value": "\"wbRYC5XhHy3+MwWjzDnLbXBubYhRDztrlUy2wvvtcvo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Oct 2025 11:08:02 GMT"
+          "Value": "Tue, 28 Oct 2025 00:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37958,7 +37958,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+tGk2xeS5nJeLwIUq6l3R3fMEuz4nXIdMSd374gOxpM="
+          "Value": "sha256-wbRYC5XhHy3+MwWjzDnLbXBubYhRDztrlUy2wvvtcvo="
         }
       ]
     }

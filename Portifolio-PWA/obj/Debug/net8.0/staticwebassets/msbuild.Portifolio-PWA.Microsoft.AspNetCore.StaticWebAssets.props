@@ -156,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>s5r5fa6630</Fingerprint>
-      <Integrity>wM/hTfYQ0+4IpCHgTaeUfb1QWuYdIA/I1qbapP51Hvk=</Integrity>
+      <Fingerprint>ts8tg0yvd9</Fingerprint>
+      <Integrity>Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Portifolio-PWA.styles.css'))</OriginalItemSpec>

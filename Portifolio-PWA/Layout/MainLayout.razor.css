@@ -1,15 +1,14 @@
 .page {
     display: flex;
     flex-direction: column;
-    height:10px;
+    height:95vh;
 }
 
 main {
-    flex: 1;
+    height:100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom:3.5rem;
 }
 
 .sidebar {

@@ -1039,6 +1039,7 @@ C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\D
 C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\Debug\net8.0\refint\Portifolio-PWA.dll
 C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\Debug\net8.0\Portifolio-PWA.pdb
 C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\Debug\net8.0\ref\Portifolio-PWA.dll
-C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\Debug\net8.0\compressed\l9tkzgb7ri-ofp9vogzwo.gz
-C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\Debug\net8.0\compressed\c04wpue2vu-wmj56o6u81.gz
-C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\Debug\net8.0\compressed\0zqjp9n3ob-5hncrbm3ek.gz
+C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\Debug\net8.0\Portifolio-PWA.sourcelink.json
+C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\Debug\net8.0\compressed\l9tkzgb7ri-xtgq50uya3.gz
+C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\Debug\net8.0\compressed\c04wpue2vu-ardf51vwtc.gz
+C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\obj\Debug\net8.0\compressed\0zqjp9n3ob-2g21f0bgby.gz

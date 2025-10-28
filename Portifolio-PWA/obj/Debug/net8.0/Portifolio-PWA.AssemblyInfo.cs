@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Portifolio-PWA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86074cfa10671cda8f66e2c438e15df11863a2c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Portifolio-PWA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Portifolio-PWA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
