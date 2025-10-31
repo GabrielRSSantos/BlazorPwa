@@ -1,14 +1,13 @@
 .page[b-rr2ju93gvd] {
     display: flex;
     flex-direction: column;
-    height:95vh;
 }
 
 main[b-rr2ju93gvd] {
-    height:100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    /*align-items: center;*/
+    /*height: 100vh;*/
 }
 
 .sidebar[b-rr2ju93gvd] {

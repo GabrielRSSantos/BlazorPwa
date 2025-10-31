@@ -1,12 +1,14 @@
 ﻿@page "/"
+@using Portifolio_PWA.Components
 
 <PageTitle>Home</PageTitle>
 
-<div class="w-100 h-100 d-flex flex-column justify-content-center p-3 gap-2 align-items-center">
+<div class="d-flex flex-column gap-2 mb-5">
     <h1 class="pb-3">Bem-vindo(a)</h1>
 
     <h3>Me chamo Gabriel, tenho 30 anos, sou casado há 8 anos e tenho dois gatos. =^-^= =^-^=</h3>
-    <h3>Meus hobbies são jogar, aprender programação e desenvolver jogos na engine Godot (quero começar a praticar exercícios também :D).</h3>
+    @* <h3>Meus hobbies são jogar, aprender programação e desenvolver jogos na engine Godot (quero começar a praticar exercícios também :D).</h3> *@
+    <HobbiesCard />
     <h3>Criei esse site para facilitar a minha divulgação e ter um espaço onde posso compartilhar meus projetos e experiências de forma interativa e prática — acessível apenas com internet e um navegador.</h3>
     <h3>Estou sempre aberto a novas experiências e trabalhos. Sinta-se à vontade para entrar em contato para possíveis colaborações ou oportunidades profissionais!</h3>
 </div>

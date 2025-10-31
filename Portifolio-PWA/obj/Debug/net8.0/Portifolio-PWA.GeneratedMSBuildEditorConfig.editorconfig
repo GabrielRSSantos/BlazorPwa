@@ -13,45 +13,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Portifolio-PWA
 build_property.RootNamespace = Portifolio-PWA
-build_property.ProjectDir = C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA\
+build_property.ProjectDir = C:\Gabriel\C#\BlazorPwa\Portifolio-PWA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-PWA\Portifolio-PWA
+build_property.MSBuildProjectDirectory = C:\Gabriel\C#\BlazorPwa\Portifolio-PWA
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-PWA/Portifolio-PWA/App.razor]
+[C:/Gabriel/C\#/BlazorPwa/Portifolio-PWA/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-PWA/Portifolio-PWA/Pages/Counter.razor]
+[C:/Gabriel/C\#/BlazorPwa/Portifolio-PWA/Components/HobbiesCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIb2JiaWVzQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Gabriel/C\#/BlazorPwa/Portifolio-PWA/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-PWA/Portifolio-PWA/Pages/Home.razor]
+[C:/Gabriel/C\#/BlazorPwa/Portifolio-PWA/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-PWA/Portifolio-PWA/Pages/Weather.razor]
+[C:/Gabriel/C\#/BlazorPwa/Portifolio-PWA/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-PWA/Portifolio-PWA/_Imports.razor]
+[C:/Gabriel/C\#/BlazorPwa/Portifolio-PWA/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-PWA/Portifolio-PWA/Layout/MainLayout.razor]
+[C:/Gabriel/C\#/BlazorPwa/Portifolio-PWA/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-rr2ju93gvd
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-PWA/Portifolio-PWA/Layout/NavMenu.razor]
+[C:/Gabriel/C\#/BlazorPwa/Portifolio-PWA/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ejiwsu219b
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-PWA/Portifolio-PWA/Layout/Particules.razor]
+[C:/Gabriel/C\#/BlazorPwa/Portifolio-PWA/Layout/Particules.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFBhcnRpY3VsZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0bzwhruwi0

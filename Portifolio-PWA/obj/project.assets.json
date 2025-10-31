@@ -2,6 +2,24 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Blazor.Bootstrap/3.4.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "8.0.11"
+        },
+        "compile": {
+          "lib/net8.0/BlazorBootstrap.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/BlazorBootstrap.dll": {}
+        },
+        "build": {
+          "buildTransitive/Blazor.Bootstrap.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Blazor.Bootstrap.props": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.13": {
         "type": "package",
         "dependencies": {
@@ -452,6 +470,24 @@
       }
     },
     "net8.0/browser-wasm": {
+      "Blazor.Bootstrap/3.4.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "8.0.11"
+        },
+        "compile": {
+          "lib/net8.0/BlazorBootstrap.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/BlazorBootstrap.dll": {}
+        },
+        "build": {
+          "buildTransitive/Blazor.Bootstrap.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Blazor.Bootstrap.props": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/8.0.13": {
         "type": "package",
         "dependencies": {
@@ -903,6 +939,36 @@
     }
   },
   "libraries": {
+    "Blazor.Bootstrap/3.4.0": {
+      "sha512": "RlK531tJCXGEoESwjDIARttoRPtOCXXQqrNwfaai7sIWir2pqsBop0gySBqN742m+K2vY9p9J7Mwwl6XcNXm6g==",
+      "type": "package",
+      "path": "blazor.bootstrap/3.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "128X128.png",
+        "README.md",
+        "blazor.bootstrap.3.4.0.nupkg.sha512",
+        "blazor.bootstrap.nuspec",
+        "build/Blazor.Bootstrap.props",
+        "build/Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "buildMultiTargeting/Blazor.Bootstrap.props",
+        "buildTransitive/Blazor.Bootstrap.props",
+        "lib/net6.0/BlazorBootstrap.dll",
+        "lib/net8.0/BlazorBootstrap.dll",
+        "lib/net9.0/BlazorBootstrap.dll",
+        "staticwebassets/Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css",
+        "staticwebassets/blazor.bootstrap.css",
+        "staticwebassets/blazor.bootstrap.js",
+        "staticwebassets/blazor.bootstrap.pdf.js",
+        "staticwebassets/blazor.bootstrap.sortable-list.js",
+        "staticwebassets/blazor.bootstrap.theme-switcher.js",
+        "staticwebassets/icon/128X128.png",
+        "staticwebassets/pdfjs-4.0.379.min.js",
+        "staticwebassets/pdfjs-4.0.379.worker.min.js"
+      ]
+    },
     "Microsoft.AspNetCore.Authorization/8.0.13": {
       "sha512": "cMdPz2hFN8fjEdUBelItljBrsbiz2eVspV5W5bee9c6OT4ChgprnHe7BKXYc3Wwzhxo/ls9XxcLuXZrfVCIT6Q==",
       "type": "package",
@@ -1838,6 +1904,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Blazor.Bootstrap >= 3.4.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.13",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.13",
       "Microsoft.NET.ILLink.Tasks >= 8.0.13",
@@ -1845,23 +1912,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gabriel\\.nuget\\packages\\": {},
+    "C:\\Users\\gasantos\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\Portifolio-PWA.csproj",
+      "projectUniqueName": "C:\\Gabriel\\C#\\BlazorPwa\\Portifolio-PWA\\Portifolio-PWA.csproj",
       "projectName": "Portifolio-PWA",
-      "projectPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\Portifolio-PWA.csproj",
-      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-PWA\\Portifolio-PWA\\obj\\",
+      "projectPath": "C:\\Gabriel\\C#\\BlazorPwa\\Portifolio-PWA\\Portifolio-PWA.csproj",
+      "packagesPath": "C:\\Users\\gasantos\\.nuget\\packages\\",
+      "outputPath": "C:\\Gabriel\\C#\\BlazorPwa\\Portifolio-PWA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gasantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1871,7 +1938,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://repo.rdisoftware.com/artifactory/api/nuget/rdi-nuget-virtual": {}
       },
       "frameworks": {
         "net8.0": {
@@ -1889,12 +1957,16 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Blazor.Bootstrap": {
+            "target": "Package",
+            "version": "[3.4.0, )"
+          },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
             "version": "[8.0.13, )"
@@ -1928,18 +2000,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[8.0.13, 8.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

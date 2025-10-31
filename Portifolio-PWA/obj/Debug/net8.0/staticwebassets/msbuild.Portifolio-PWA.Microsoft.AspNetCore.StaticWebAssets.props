@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>h3s5g7ao2x</Fingerprint>
-      <Integrity>fUlbDrnfg81WjpxttayV5apHuofJX54gsT/u/so4OIw=</Integrity>
+      <Fingerprint>dke95hd0i7</Fingerprint>
+      <Integrity>/Yq9NX3obl4NQ/Y9er9Dsaody81Qu5IyKTM2bIRvAmI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bpk8xqwxhs</Fingerprint>
-      <Integrity>z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=</Integrity>
+      <Fingerprint>6gzpyzhau4</Fingerprint>
+      <Integrity>SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap\bootstrap.min.css'))</OriginalItemSpec>
@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>e3f5tir7j2</Fingerprint>
-      <Integrity>Vu8PuHn45pLj4HrvqwCOoCFFdYnunqJLgq+WT5UKN6M=</Integrity>
+      <Fingerprint>a33q5kl3u4</Fingerprint>
+      <Integrity>2mjT25MpyMiRruUzdZ5GTMgnwWxNnENtD5HwfGDouhE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
@@ -156,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>ts8tg0yvd9</Fingerprint>
-      <Integrity>Mz6GkLFw7ZijmBPC0fw0+4APYL0OqbWYMvJPaP2peqM=</Integrity>
+      <Fingerprint>bi064d2oci</Fingerprint>
+      <Integrity>7b9CEuGtXKinPKPeYBX8xNz0aftmNz1v/T7UB49teQM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Portifolio-PWA.styles.css'))</OriginalItemSpec>
